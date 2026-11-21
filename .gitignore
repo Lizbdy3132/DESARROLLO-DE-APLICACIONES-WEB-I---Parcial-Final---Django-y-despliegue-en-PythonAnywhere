@@ -139,3 +139,5 @@ GitHub.sublime-settings
 *_deploy_key.pub
 ldap_litoral*
 *.pem
+.DS_Store
+static_publico/
